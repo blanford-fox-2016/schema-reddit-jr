@@ -1,1 +1,18 @@
+http://imgur.com/JedWXWO
 
+satu user bisa memiliki/membuat banyak threads
+setiap threads hanya milik tepat 1 user
+
+satu threads memiliki banyak comment
+setiap comment spesific berada di satu threads
+
+satu threads memiliki banyak vote
+setiap votes spesific untuk satu threads
+
+satu user bisa membuat banyak komentar pada banyak threads
+satu komentar hanya milik satu user
+komentar spesific berada pada satu thread
+
+satu user bisa membuat banyak vote pada banyak threads
+satu vote hanya milik satu user
+vote spesific berada pada satu thread
