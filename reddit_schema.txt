@@ -1,1 +1,4 @@
-
+http://i.imgur.com/G4mgpz4.png
+user one to many ke komentar dan thread
+vote adalah bagian one to one ke komentar per user per komentar
+komentar mengisi thread one to many
